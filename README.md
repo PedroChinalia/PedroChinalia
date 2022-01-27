@@ -17,6 +17,7 @@
   <img align="center" alt="Pedro-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-Mysql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
+  <img align="right"  alt="Gustavo-pic" height="150" src="https://cdn.discordapp.com/attachments/893505726838878238/936290499239755776/pedropic.png">
 </div>
   
   ##

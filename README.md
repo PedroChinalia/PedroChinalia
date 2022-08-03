@@ -1,6 +1,6 @@
 ### Hi there! I'm Pedro Chinalia
 
-- I’m front-end developer
+- I’m a front-end developer
 
 <div align="center">
   <a href="https://github.com/pedrochinalia">

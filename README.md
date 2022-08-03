@@ -1,7 +1,6 @@
 ### Hi there! I'm Pedro Chinalia
 
-- 🔭 I’m currently working with Php and Codeigniter
-- 🌱 I’m currently learning how to make APIs
+- I’m front-end developer
 
 <div align="center">
   <a href="https://github.com/pedrochinalia">

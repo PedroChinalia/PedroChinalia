@@ -1,12 +1,6 @@
 ### Hi there! I'm Pedro Chinalia
 
 - I’m a front-end developer
-
-<div align="center">
-  <a href="https://github.com/pedrochinalia">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pedrochinalia&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedrochinalia&layout=compact&langs_count=7&theme=github_dark&hide=c%23%0A"/>
-</div>
   
 <div style="display: inline_block"><br>
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
